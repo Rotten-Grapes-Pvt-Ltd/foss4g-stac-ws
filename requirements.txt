@@ -1,0 +1,12 @@
+notebook
+pystac-client
+planetary-computer
+odc-stac
+matplotlib
+rioxarray
+proj
+folium
+geopandas
+dask 
+distributed 
+scikit-learn
