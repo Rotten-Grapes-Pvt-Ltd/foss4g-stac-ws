@@ -2,6 +2,8 @@
 
 This workshop was originally presented at [FOSS4G 2025, Auckland](https://2025.foss4g.org/program/schedule#event-3769-getting-sentinel-data-within-seconds-with-stac-workshop)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rotten-Grapes-Pvt-Ltd/foss4g-stac-ws/HEAD)
+
 ## Run the files
 
 To run the workshop content in local, here are the steps 
